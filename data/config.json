@@ -1,0 +1,8 @@
+{
+  "token": "your_discord_token",
+  "razorcap_key": "your_razorcap_api_key",
+  "proxy": "user:pass@ip:port",
+  "permission": "8",
+  "clientIds": ["bot_id_1", "bot_id_2"],
+  "threads": 1
+}
