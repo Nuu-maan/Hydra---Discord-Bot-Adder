@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/QKVKrTv" alt="Hydra Logo" width="150"/>
+  <img src="https://i.postimg.cc/50kXr5Db/Hydra-logo.jpg" alt="Hydra Logo" width="150"/>
 
   # Hydra Discord Bot Adder
 
